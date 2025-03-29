@@ -1,5 +1,25 @@
 # Changelog
 
+## [3.5.9](https://github.com/melkortf/tf2-servers/compare/3.5.8...3.5.9) (2025-03-09)
+
+## [3.5.8](https://github.com/melkortf/tf2-servers/compare/3.5.7...3.5.8) (2025-02-23)
+
+
+### Bug Fixes
+
+* **deps:** update Metamod:Source to version 1.12.0-git1216 ([#195](https://github.com/melkortf/tf2-servers/issues/195)) ([2d69396](https://github.com/melkortf/tf2-servers/commit/2d69396e32c295807ef5c5ba9fb70e36b3c8f8c0))
+* **deps:** update SourceMod to version 1.12.0-git7190 ([#196](https://github.com/melkortf/tf2-servers/issues/196)) ([e566dd3](https://github.com/melkortf/tf2-servers/commit/e566dd3075189a9b6a61bf81c41dd45597e163bb))
+
+## [3.5.7](https://github.com/melkortf/tf2-servers/compare/3.5.6...3.5.7) (2025-02-21)
+
+## [3.5.6](https://github.com/melkortf/tf2-servers/compare/3.5.5...3.5.6) (2025-01-24)
+
+
+### Bug Fixes
+
+* **deps:** update F2's SourceMod plugins to version 20241116-1731776878043 ([#191](https://github.com/melkortf/tf2-servers/issues/191)) ([9350ac7](https://github.com/melkortf/tf2-servers/commit/9350ac7984a219cf6bc42e701ad5ecaabeae2ed2))
+* **tf2-dm:** update tf2rue to version 0.0.11 ([#190](https://github.com/melkortf/tf2-servers/issues/190)) ([34f48de](https://github.com/melkortf/tf2-servers/commit/34f48de20f0ec767c8c052f592220ea596728cc9))
+
 ## [3.5.5](https://github.com/melkortf/tf2-servers/compare/3.5.4...3.5.5) (2024-12-28)
 
 ## [3.5.4](https://github.com/melkortf/tf2-servers/compare/3.5.3...3.5.4) (2024-12-20)
