@@ -22,6 +22,7 @@ env:
 
 permissions:
   packages: write
+  contents: read
 
 jobs:
   tf2-base-i386:
