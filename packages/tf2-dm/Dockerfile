@@ -67,4 +67,7 @@ COPY afk_manager.cfg "${SERVER_DIR}/tf/cfg/sourcemod/afk_manager.cfg"
 COPY custom_whitelist_11769.txt "${SERVER_DIR}/tf/cfg/custom_whitelist_11769.txt"
 COPY afk_manager.phrases.txt "${SERVER_DIR}/tf/addons/sourcemod/translations/afk_manager.phrases.txt"
 
-CMD ["+sv_pure", "2", "+map", "cp_badlands", "+maxplayers", "8"]
+ENV MAX_PLAYERS="24"
+ENV MAP="cp_badlands"
+
+CMD ["+sv_pure", "2", "+map", "$MAP", "+maxplayers", "$MAX_PLAYERS"]
